@@ -70,7 +70,7 @@ If you find CSSTN useful in your research, please consider citing:
 
 ```
 Solar images blind restoration via Channel Sharing Spatio-Temporal Network
-Shuai Wang, Qingqing Chen, Chunyuan He, Chi Zhang, Libo Zhong,Hua Bao, Lanqiang Zhang, and Changhui Rao
+Shuai Wang, Qingqing Chen, Chunyuan He, Chi Zhang, Libo Zhong, Hua Bao, Lanqiang Zhang, and Changhui Rao
 ```
 
 ## Contact
